@@ -35,7 +35,7 @@ function generateMarkdown(data) {
   GitHub Repo Name: ${data.repo}
 
   ## License
-  license Used: ${data.license}
+  License Used: ${data.license}
 
 `;
 }
