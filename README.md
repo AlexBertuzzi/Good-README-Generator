@@ -2,14 +2,14 @@
   #Project Title: Good README Generator
 
   ## Table of Contents
-  [Description](#description)
-  [Technologies Used](#technologies)
-  [Contributors](#contributors)
-  [Installation](#install)
-  [Usage](#usage)
-  [GitHub User](#github)
-  [GitHub Repo](#repo)
-  [License](#license)
+  * [Description](#description)
+  * [Technologies Used](#technologies)
+  * [Contributors](#contributors)
+  * [Installation](#install)
+  * [Usage](#usage)
+  * [GitHub User](#github)
+  * [GitHub Repo](#repo)
+  * [License](#license)
 
   ## Description
   This project allows a user to quickly generate a README.md file using the command line.
