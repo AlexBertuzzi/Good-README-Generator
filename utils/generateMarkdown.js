@@ -4,14 +4,14 @@ function generateMarkdown(data) {
   #Project Title: ${data.title}
 
   ## Table of Contents
-  [Description](#description)
-  [Technologies Used](#technologies)
-  [Contributors](#contributors)
-  [Installation](#install)
-  [Usage](#usage)
-  [GitHub User](#github)
-  [GitHub Repo](#repo)
-  [License](#license)
+  * [Description](#description)
+  * [Technologies Used](#technologies)
+  * [Contributors](#contributors)
+  * [Installation](#install)
+  * [Usage](#usage)
+  * [GitHub User](#github)
+  * [GitHub Repo](#repo)
+  * [License](#license)
 
   ## Description
   ${data.description}
